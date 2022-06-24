@@ -6,7 +6,7 @@ public class Loader
         Cat cat = new Cat();
         Cat cat1 = new Cat();
         cat1.feed(25000.);
-        cat1.getWeight();
+        //cat1.getWeight();
         cat1.deadCat();
 
         Cat cat2 = new Cat();

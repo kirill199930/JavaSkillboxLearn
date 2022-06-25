@@ -1,12 +1,14 @@
+package SkillboxCat;
 
 public class Cat
 {
-    private double originWeight;
+    private final double originWeight;
     private double weight;
     private static int count;
 
-    private double minWeight;
-    private double maxWeight;
+    private final double minWeight;
+    private final double maxWeight;
+    private final int eya;
 
     public Cat()
     {
@@ -16,6 +18,7 @@ public class Cat
         maxWeight = 9000.0;
         count++;
 
+        eya = 2;
     }
 
     public void meow()
@@ -29,7 +32,8 @@ public class Cat
         int sum = 0;
         sum += amount;
         System.out.println("sumEat " + sum);
-        weight = weight + amount;
+        weight += amount;
+
     }
 
     public void drink(Double amount)
@@ -64,6 +68,8 @@ public class Cat
         else if (weight > maxWeight  ) count--;
 
     }
+
+
 
     public String getStatus()
     {

@@ -4,7 +4,19 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="d3566954-15db-468d-82d7-9b60a8957e26" name="Default" comment="JavaLearn2" />
+    <list default="true" id="d3566954-15db-468d-82d7-9b60a8957e26" name="Default" comment="JavaLearn3">
+      <change afterPath="$PROJECT_DIR$/.idea/uiDesigner.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cat/Cat/Cat.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cat/Cat/Color.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/out/production/Cat/Cat/Loader.class" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cat/Color.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/Cat/Loader.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cat/Cat.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cat/Loader.class" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/Cat/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Loader.java" beforeDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -17,6 +29,7 @@
     <option name="RECENT_TEMPLATES">
       <list>
         <option value="Class" />
+        <option value="Enum" />
       </list>
     </option>
   </component>
@@ -78,6 +91,7 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "SHARE_PROJECT_CONFIGURATION_FILES": "true",
     "last_opened_file_path": "/home/user/JavaSkillbox/03.Объекты и классы/3.11 Домашняя работа/Cat/Cat",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
@@ -130,8 +144,8 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="Loader" />
+    <configuration name="SkillboxCat.Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="SkillboxCat.Loader" />
       <module name="Cat" />
       <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
       <method v="2">
@@ -171,7 +185,7 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.Loader" />
+        <item itemvalue="Application.SkillboxCat.Loader" />
       </list>
     </recent_temporary>
   </component>
@@ -215,7 +229,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656091391167</updated>
     </task>
-    <option name="localTasksCounter" value="5" />
+    <task id="LOCAL-00005" summary="JavaLearn2">
+      <created>1656091438882</created>
+      <option name="number" value="00005" />
+      <option name="presentableId" value="LOCAL-00005" />
+      <option name="project" value="LOCAL" />
+      <updated>1656091438882</updated>
+    </task>
+    <option name="localTasksCounter" value="6" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -311,7 +332,8 @@
     </ignored-roots>
     <MESSAGE value="JavaLearn" />
     <MESSAGE value="JavaLearn2" />
-    <option name="LAST_COMMIT_MESSAGE" value="JavaLearn2" />
+    <MESSAGE value="JavaLearn3" />
+    <option name="LAST_COMMIT_MESSAGE" value="JavaLearn3" />
   </component>
   <component name="antWorkspaceConfiguration">
     <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />

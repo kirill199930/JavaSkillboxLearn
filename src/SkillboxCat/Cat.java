@@ -21,6 +21,16 @@ public class Cat
         eya = 2;
     }
 
+
+    public Cat(double weight) {
+        this.weight = weight;
+        eya = 0;
+        maxWeight = 0;
+        minWeight = 0;
+        originWeight = 0;
+        count++;
+    }
+
     public void meow()
     {
         weight = weight - 1;

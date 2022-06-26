@@ -6,8 +6,6 @@
   <component name="ChangeListManager">
     <list default="true" id="d3566954-15db-468d-82d7-9b60a8957e26" name="Default" comment="JavaLearn3">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SkillboxCat/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SkillboxCat/Cat.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/SkillboxCat/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SkillboxCat/Loader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -84,7 +82,7 @@
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/user/JavaSkillbox/02.Синтаксис языка/2.7 Домашняя работа/RoadController_xiFjmf4/RoadController",
+    "last_opened_file_path": "/home/user/JavaSkillbox",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>

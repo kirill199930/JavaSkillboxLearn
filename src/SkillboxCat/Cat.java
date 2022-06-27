@@ -2,13 +2,20 @@ package SkillboxCat;
 
 public class Cat
 {
-    private final double originWeight;
+    private  double originWeight;
     private double weight;
     private static int count;
 
-    private final double minWeight;
-    private final double maxWeight;
-    private final int eya;
+    private  double minWeight;
+    private  double maxWeight;
+    private  int eya;
+    private String color;
+
+
+
+
+
+
 
     public Cat()
     {
@@ -18,18 +25,34 @@ public class Cat
         maxWeight = 9000.0;
         count++;
 
-        eya = 2;
     }
 
 
     public Cat(double weight) {
         this.weight = weight;
-        eya = 0;
-        maxWeight = 0;
-        minWeight = 0;
-        originWeight = 0;
         count++;
+
     }
+
+    public Cat(double originWeight, double minWeight, double maxWeight) {
+        this(23.1);
+        this.originWeight = originWeight;
+        this.minWeight = minWeight;
+        this.maxWeight = maxWeight;
+
+    }
+
+    public String getColor() {
+        return color;
+    }
+
+    public void setColor(String color) {
+        this.color = color;
+
+    }
+
+
+
 
     public void meow()
     {
@@ -73,6 +96,7 @@ public class Cat
     public static int countCat(){
         return count;
     }
+
     public void deadCat(){
         if (weight < minWeight) count--;
         else if (weight > maxWeight  ) count--;

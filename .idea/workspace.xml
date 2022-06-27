@@ -5,7 +5,15 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="d3566954-15db-468d-82d7-9b60a8957e26" name="Default" comment="JavaLearn3">
+      <change afterPath="$PROJECT_DIR$/.idea/artifacts/Cat_jar.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/.idea/libraries/airport_1_0_1.xml" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/air/airport-1.0.1.jar" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/META-INF/MANIFEST.MF" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/Cat.iml" beforeDir="false" afterPath="$PROJECT_DIR$/Cat.iml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/out/production/Cat/SkillboxCat/Cat.class" beforeDir="false" afterPath="$PROJECT_DIR$/out/production/Cat/SkillboxCat/Cat.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SkillboxCat/Cat.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SkillboxCat/Cat.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/SkillboxCat/Loader.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/SkillboxCat/Loader.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -81,8 +89,13 @@
   </component>
   <component name="PropertiesComponent"><![CDATA[{
   "keyToString": {
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
     "SHARE_PROJECT_CONFIGURATION_FILES": "true",
-    "last_opened_file_path": "/home/user/JavaSkillbox",
+    "last_opened_file_path": "/home/user/JavaSkillbox/ObjectClass/CatProject/Cat",
+    "project.structure.last.edited": "Artifacts",
+    "project.structure.proportion": "0.15",
+    "project.structure.side.proportion": "0.2",
     "settings.editor.selected.configurable": "project.propVCSSupport.DirectoryMappings"
   }
 }]]></component>
@@ -91,7 +104,7 @@
       <recent name="$PROJECT_DIR$/src/SkillboxCat" />
     </key>
   </component>
-  <component name="RunManager" selected="Application.RoadController">
+  <component name="RunManager" selected="Application.SkillboxCat.Loader ">
     <configuration default="true" type="AndroidRunConfigurationType" factoryName="Android Application">
       <module name="" />
       <option name="ACTIVITY_CLASS" value="" />
@@ -139,18 +152,107 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="RoadController" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
-      <option name="MAIN_CLASS_NAME" value="RoadController" />
+    <configuration name="Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SkillboxCat.Loader" />
       <module name="Cat" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillboxCat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
     </configuration>
-    <configuration name="SkillboxCat.Loader" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+    <configuration name="SkillboxCat.Loader " type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
       <option name="MAIN_CLASS_NAME" value="SkillboxCat.Loader" />
       <module name="Cat" />
-      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillboxCat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkillboxCat.Loader " type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="11" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SkillboxCat.Loader" />
+      <module name="Cat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillboxCat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkillboxCat.Loader " type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="$USER_HOME$/.jdks/openjdk-18.0.1.1" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SkillboxCat.Loader" />
+      <module name="Cat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillboxCat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkillboxCat.Loader (1)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SkillboxCat.Loader" />
+      <module name="Cat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillboxCat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkillboxCat.Loader (2)" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SkillboxCat.Loader" />
+      <module name="Cat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillboxCat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="SkillboxCat.Loader " type="Application" factoryName="Application" temporary="true">
+      <option name="ALTERNATIVE_JRE_PATH" value="openjdk-18" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="true" />
+      <option name="MAIN_CLASS_NAME" value="SkillboxCat.Loader" />
+      <module name="Cat" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="SkillboxCat.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
       <method v="2">
         <option name="Make" enabled="true" />
       </method>
@@ -188,8 +290,11 @@
     </configuration>
     <recent_temporary>
       <list>
-        <item itemvalue="Application.RoadController" />
-        <item itemvalue="Application.SkillboxCat.Loader" />
+        <item itemvalue="Application.SkillboxCat.Loader " />
+        <item itemvalue="Application.Loader" />
+        <item itemvalue="Application.SkillboxCat.Loader (2)" />
+        <item itemvalue="Application.SkillboxCat.Loader " />
+        <item itemvalue="Application.SkillboxCat.Loader " />
       </list>
     </recent_temporary>
   </component>

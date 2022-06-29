@@ -3,6 +3,12 @@ package SkillboxCat;
 
 import com.skillbox.airport.Airport;
 
+import java.util.ArrayList;
+import java.util.Comparator;
+import java.util.List;
+
+import static SkillboxCat.Fac.factrial;
+
 public class Loader
 {
 
@@ -28,6 +34,17 @@ public class Loader
 
         Airport airport = Airport.getInstance();
         System.out.println(airport.getAllAircrafts());
+
+        List a = new ArrayList<>();
+        a.add("kirill");
+        a.add("cat");
+        a.add("dog");
+        a.remove(a.get(0));
+
+        System.out.println(a);
+
+
+        System.out.println(factrial(1000));
 
 
 

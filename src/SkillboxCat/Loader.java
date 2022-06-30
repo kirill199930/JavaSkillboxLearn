@@ -4,10 +4,11 @@ package SkillboxCat;
 import com.skillbox.airport.Airport;
 
 import java.util.ArrayList;
-import java.util.Comparator;
+import java.util.Arrays;
 import java.util.List;
 
-import static SkillboxCat.Fac.factrial;
+import static Algorithm.Fac.factrial;
+import static Algorithm.Fac.factrial2;
 
 public class Loader
 {
@@ -44,7 +45,10 @@ public class Loader
         System.out.println(a);
 
 
-        System.out.println(factrial(1000));
+        int n = 100;
+        long [] arr = new long[n + 1];
+        Arrays.fill(arr, -1);
+        System.out.println(factrial2(n, arr));
 
 
 
